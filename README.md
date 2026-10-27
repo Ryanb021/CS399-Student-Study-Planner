@@ -33,6 +33,33 @@ students organize their classes and assignments.
 - Added user input using Scanner
 - Tested the menu options
 
+### Week 2 - Course Management
+
+- Created Course.java
+- Added courseName and courseCode variables
+- Created a Course constructor
+- Added getter methods
+- Created displayCourse() method
+- Used an ArrayList to store courses
+- Updated Main.java to allow users to add courses
+- Tested adding multiple courses
+
+## Current Features
+
+1. Display the main menu
+2. Read user input
+3. Add a new course
+4. Store multiple courses in an ArrayList
+5. Display courses after adding them
+
+## Features Still in Development
+
+- Add assignments
+- View assignments
+- Mark assignments as completed
+- Remove assignments
+- Save and load information
+
 ## How to Run
 
 1. Open the project folder in a terminal.
